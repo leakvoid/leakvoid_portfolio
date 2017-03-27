@@ -1,0 +1,14 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "Source code for the portfolio web-page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leakvoid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
